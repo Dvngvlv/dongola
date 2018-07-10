@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Dongola",
   "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "author": "Sig",
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
