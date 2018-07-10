@@ -1,0 +1,11 @@
+{
+  "name": "Dongola",
+  "version": "0.0.1",
+  "description": "Dongola",
+  "main": "bot.js",
+  "author": "Sig",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.0.0"
+  }
+}
